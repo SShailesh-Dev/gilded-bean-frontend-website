@@ -40,7 +40,7 @@ A premium, heritage-inspired cafe website built with React, Tailwind CSS, and Fr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/the-gilded-bean.git
+   git clone https://github.com/SShailesh-Dev/gilded-bean-frontend-website.git
    ```
 
 2. Navigate to the project directory:
@@ -80,6 +80,22 @@ src/
 ├── index.css       # Global styles & Tailwind configuration
 └── main.tsx        # Entry point
 ```
+
+# The Gilded Ben Café ☕✨
+
+Welcome to **The Gilded Ben Café**, a React-based website showcasing our cozy café experience online.
+
+---
+
+## 🚀 Live Demo
+Check out the live site here: [The Gilded Ben Café](https://the-gilded-ben-cafe.netlify.app/)
+
+---
+
+## 🛠️ Hosted
+- [Netlify](https://www.netlify.com/) for hosting  
+
+---
 
 ## 📜 License
 
